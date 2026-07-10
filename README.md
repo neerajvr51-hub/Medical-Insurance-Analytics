@@ -36,7 +36,7 @@ This is my data analytics project where I analyzed 10,000 healthcare insurance c
 ---
 
 ## 📊 Dashboard Preview
-![Healthcare Fraud Dashboard](<img width="1397" height="743" alt="ashboard png" src="https://github.com/user-attachments/assets/ded98fb0-927f-44bc-85e3-ddb9cd7d1dd5" />
+(<img width="1397" height="743" alt="ashboard png" src="https://github.com/user-attachments/assets/ded98fb0-927f-44bc-85e3-ddb9cd7d1dd5" />
 
 
 
