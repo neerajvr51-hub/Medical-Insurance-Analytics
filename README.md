@@ -36,7 +36,8 @@ This is my data analytics project where I analyzed 10,000 healthcare insurance c
 ---
 
 ## 📊 Dashboard Preview
-<img width="1452" height="810" alt="dashboard png" src="https://github.com/user-attachments/assets/aef412b8-cc5c-4e31-87c5-87a04f1bacfe" />
+<img width="1438" height="810" alt="dashboard png" src="https://github.com/user-attachments/assets/1d10db6e-56a8-49dc-9d4c-ecbbad1d5252" />
+
 
 
 
